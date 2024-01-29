@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NTEGEREJIMANA lEWIS
+- 👋 Hi, I’m NTEGEREJIMANA lEWIS AND I'M PASSIONATE ABOUT||FULL-STACK DEVELOPER || SOFTWARE DEVELOPMENT || IT
 
 <!---
 umulewi/umulewi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
