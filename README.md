@@ -99,12 +99,8 @@ Cross-functional Teamwork • Project Documentation • Agile Ceremonies • Tec
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umulewi&show_icons=true&theme=radical&hide_border=true" alt="Lewis's GitHub stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=umulewi&theme=radical&hide_border=true" alt="Lewis's GitHub streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umulewi&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="48%"/>
+  <img src="./generated/overview.svg" alt="Lewis's GitHub stats overview" width="48%"/>
+  <img src="./generated/languages.svg" alt="Lewis's top languages" width="48%"/>
 </p>
 
 ---
