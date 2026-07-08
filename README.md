@@ -1,30 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1572B6&height=200&section=header&text=Hi%20There,%20I'm%20Lewis%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Building%20Modern%20Web%20%26%20Mobile%20Applications&descAlignY=55&descSize=18" width="100%"/>
+# 👋 Hi, I'm Lewis
 
-<br>
+### Fullstack Developer | Building Modern Web & Mobile Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Passionate+Fullstack+Developer+from+Rwanda;Turning+ideas+into+real-world+digital+solutions;React+%7C+Laravel+%7C+Node.js+%7C+Vue.js;Always+learning%2C+always+building" alt="Typing SVG" />
-
-<br><br>
+Passionate Fullstack Developer from Rwanda 🇷🇼, turning ideas into real-world digital solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umulewi)
 [![Profile Views](https://komarev.com/ghpvc/?username=umulewi&style=for-the-badge&color=0077B5)](https://github.com/umulewi)
 
 </div>
 
-<br>
+---
 
 ## 👨‍💻 About Me
 
-```yaml
-name: "Lewis"
-role: "Fullstack Developer"
-location: "Rwanda 🇷🇼"
-focus: ["Web Development", "Mobile Applications", "Machine Learning"]
-currently_building: "Modern, scalable digital solutions"
-fun_fact: "I turn coffee ☕ into clean, working code"
-```
+- 🌍 Based in Rwanda, working across web and mobile
+- 🛠️ Focused on **React**, **Vue.js**, **Laravel**, and **Node.js**
+- 🤖 Exploring **Machine Learning** — from data preprocessing to model evaluation
+- ☕ I turn ideas into clean, working code
 
 <br>
 
@@ -117,31 +111,14 @@ fun_fact: "I turn coffee ☕ into clean, working code"
 
 <br>
 
-## 📊 GitHub Stats
+---
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=umulewi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umulewi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umulewi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-> 💡 **Note:** Replace `umulewi` in the stats badge URLs above with your exact GitHub username if it differs, so the cards pull your real data.
-
-<br>
 
 ## 🤝 Let's Connect
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umulewi)
 
 *Thanks for stopping by — always open to connecting on interesting projects!* ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:0077B5&height=100&section=footer" width="100%"/>
 
 </div>
